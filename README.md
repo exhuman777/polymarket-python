@@ -2,7 +2,7 @@
 
 **A Python wrapper for Polymarket that doesn't make you think.**
 
-I got tired of reading docs every time I wanted to check a price or place an order. This wraps the four Polymarket APIs into functions that do what you'd expect.
+I got tired of reading docs every time I wanted to check a price or place an order. This wraps the three Polymarket APIs into functions that do what you'd expect.
 
 ## Who this is for
 
@@ -127,9 +127,9 @@ parse_price("35c")      # 0.35
 parse_price("0.35")     # 0.35
 ```
 
-## The four APIs
+## The three APIs
 
-This wrapper talks to four Polymarket APIs:
+This wrapper talks to three Polymarket APIs:
 
 | API | URL | What it has |
 |-----|-----|-------------|

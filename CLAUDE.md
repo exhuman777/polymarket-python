@@ -4,7 +4,7 @@
 
 ## What is this?
 
-A clean Python wrapper for Polymarket's four APIs. Use it to get market data and place trades without thinking about API details.
+A clean Python wrapper for Polymarket's three APIs. Use it to get market data and place trades without thinking about API details.
 
 ## Quick start
 
