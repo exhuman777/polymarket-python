@@ -1,0 +1,4 @@
+# Core dependencies (none - stdlib only for read operations)
+
+# Trading (optional - only if you need to place orders)
+# py-clob-client
