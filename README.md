@@ -14,7 +14,47 @@
    ╚═╝
 ```
 
-# polymarket-python
+<p align="center">
+  <strong>polymarket-python</strong>
+</p>
+
+<p align="center">
+  <em>Clean Python Wrapper for Polymarket APIs</em>
+</p>
+
+<p align="center">
+  <a href="examples/basic_usage.py">Examples</a> &middot;
+  <a href="AGENTS.md">Agent Guide</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/lang-Python-purple" alt="Python" />
+  <img src="https://img.shields.io/badge/deps-Zero%20Dependencies-brightgreen" alt="Zero Dependencies" />
+  <img src="https://img.shields.io/badge/APIs-Gamma%20+%20CLOB%20+%20Data-blue" alt="Gamma + CLOB + Data" />
+</p>
+
+---
+
+**Three Polymarket APIs wrapped into simple functions. No dependencies.**
+
+Wraps Polymarket's Gamma API (markets), CLOB API (orderbook), and Data API (prices/history) into clean Python functions. Zero external dependencies, stdlib only.
+
+---
+
+## File Map
+
+```
+  polymarket-python/
+  AGENTS.md
+  CLAUDE.md
+  README.md
+  polymarket.py
+  requirements.txt
+  examples/
+    basic_usage.py
+```
+
+---
 
 **A Python wrapper for Polymarket that doesn't make you think.**
 
